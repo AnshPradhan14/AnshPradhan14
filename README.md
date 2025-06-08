@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Ansh Pradhan!
 
-🎓 I'm a third-year Computer Engineering student with a major in AI — constantly experimenting with code, models, and occasionally, my sleep schedule.  
-🧠 I love building smart solutions that actually solve problems — whether it's predicting stock prices or detecting faces in real time (no, I’m not spying).  
+🎓 I'm a third-year Computer Engineering student with a major in AI, constantly experimenting with code, models, and occasionally, my sleep schedule.  
+🧠 I love building smart solutions that actually solve problems. whether it's predicting stock prices or detecting faces in real time (no, I’m not spying).  
 ⚙️ Passionate about AI, ML, deep learning, data analysis, and anything Python-flavored.  
 
 ---
