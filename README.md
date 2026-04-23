@@ -30,15 +30,6 @@
 
 ---
 
-### 😄 Fun Facts
-
-→ I can sleep 20 hours straight - not lazy, just in power-saving mode. <br>
-→ I turn last-minute panic into coding marathons (and surprisingly good results). <br>
-→ I'm equally excited by cricket highlights and hyperparameter tuning. <br>
-→ Debugging is my cardio (because running actual miles sounds like a lot).
-
----
-
 ## 💼 Experience
 
 | 🏢 Organization | 🎯 Role | 📅 Period | 🔑 Impact |
@@ -171,6 +162,14 @@ A production-grade FastAPI service that processes PDF resumes using OCR + OpenAI
 
 ---
 
+### 😄 Fun Facts
+
+→ I can sleep 20 hours straight - not lazy, just in power-saving mode. <br>
+→ I turn last-minute panic into coding marathons (and surprisingly good results). <br>
+→ I'm equally excited by cricket highlights and hyperparameter tuning. <br>
+→ Debugging is my cardio (because running actual miles sounds like a lot).
+
+---
 
 ## 🤝 Let's Connect
 
